@@ -14,6 +14,8 @@ I am currently developing **Portals**, an open-source platform for automatic vid
 
 The core idea behind Portals is to create a system that can translate the subtle, often unconscious, points of interest of a persons hierarchy of values and affordances, into a coherent visual narrative. Instead of relying solely on explicit text prompts, Portals will leverage novel techniques to capture and interpret a user's focus, generating a playable videogame that is deeply resonant with their internal state. Explore your own mind: is it ugly? Face yourself as you are - is it pretty? See how often you've been naive in life.
 
+Previously i was woking on crafting stories from media, but as i discovered places like Dungeon AI already having the concept pinned down, i decided to scale up and combine this project, with more recent developments. Heres a previous sketch of what that used to look like, and what Portals once open sourced will borrow from.
+
 https://github.com/user-attachments/assets/a952b9e5-45ed-4855-8c86-08f0cf11bd06
 
 ### local-deepthink: Democratizing Deep Thought 🧠
