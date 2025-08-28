@@ -29,7 +29,7 @@ Here are some of the core themes I explore in my articles:
 *   **Beyond AGI:** Arguing for a shift in focus from data-centric models to fedback operator-centric models, inspired by control systems like PID loops, to achieve breakthroughs in AI.
 *   **Pseudoscience as a Tool not a belief:** Leveraging symbolic frameworks like MBTI and astrology as powerful, linguistically-loaded systems for generating complex and nuanced personas in GenAI.
 
-You can find the full collection of my essays and articles in my [blog repository](https://github.com/iblameandrew/blog).
+You can find my entries in my [blog repository](https://github.com/iblameandrew/blog).
 
 ---
 
