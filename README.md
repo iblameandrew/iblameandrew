@@ -1,4 +1,4 @@
-[```markdown
+
 # Hi, I'm a philosopher, engineer, and researcher.
 
 I'm currently exploring the intersection of consciousness, physics, and computation. My work is grounded in a "World of Wheels" cosmovision, viewing the universe as a nested system of harmonic oscillators. I believe that true breakthroughs in artificial intelligence will not come from scaling current architectures alone, but from a deeper understanding of the fundamental principles of nature.
@@ -37,4 +37,3 @@ Feel free to explore my repositories and connect with me to discuss these ideas 
 
 andresulloa97@gmail.com
 
-```]
