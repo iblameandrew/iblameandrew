@@ -13,6 +13,10 @@ I am currently developing **Portals**, an open-source platform for automatic vid
 
 The core idea behind Portals is to create a system that can translate the subtle, often unconscious, points of interest of a persons hierarchy of values and affordances, into a coherent visual narrative. Instead of relying solely on explicit text prompts, Portals will leverage novel techniques to capture and interpret a user's focus, generating a playable videomgame that is deeply resonant with their internal state. 
 
+
+https://github.com/user-attachments/assets/a952b9e5-45ed-4855-8c86-08f0cf11bd06
+
+
 ---
 
 ## 📝 My Thoughts
@@ -28,7 +32,6 @@ Here are some of the core themes I explore in my articles:
 You can find the full collection of my essays and articles in my [blog repository](https://github.com/iblameandrew/blog).
 
 ---
-
 
 Feel free to explore my repositories and connect with me to discuss these ideas further.
 
