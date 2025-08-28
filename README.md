@@ -3,7 +3,7 @@
 
 I'm currently exploring the intersection of consciousness, physics, and computation. My work is grounded in a "World of Wheels" cosmovision, viewing the universe as a nested system of harmonic oscillators. I believe that true breakthroughs in artificial intelligence will not come from scaling current architectures alone, but from a deeper understanding of the fundamental principles of nature.
 
-My ruminiating over the years argues that current AI models are like integrators without a differential —they can approximate functions but lack the feedback mechanisms that drive genuine understanding. This has led me to explore nature-inspired methods and control theory, like PID loops, as a path toward more robust and conscious-like AI. I'm particularly interested in the science of loops and oscillators as a precise language for describing consciousness. You can find my musings on these topics in my blog, where I dissect everything from the emergent complexity of MLPs to the metaphysical implications of gravity and attention.
+My ruminiating over the years argues that current AI models are endowed with wave-like features during training, but lack so in their weights during inference —they can approximate functions but lack the feedback mechanisms that drive genuine updated understanding. This has led me to explore nature-inspired methods and control theory, like PID loops, as a path toward more robust and conscious-like AI. I'm particularly interested in the science of loops and oscillators as a precise language for describing consciousness. You can find my musings on these topics in my blog, where I dissect everything from the emergent complexity of MLPs to the metaphysical implications of gravity and attention.
 
 ---
 
