@@ -10,8 +10,6 @@ My ruminiating over the years argues that current AI models are endowed with wav
 
 ### Portals
 
-_Right now my profile is a demo managed by a portals agent using my own unconscious as extracted after writing the story of my life - the agent then dives into recommendation engines and deep searches resonant videos using Top, Left, Right and Bottom operators. Open sourcing my mind basically._
-
 I am currently developing **Portals**, a future open source platform for automatic videogame synthesis based on a person's elicited focal points of attention.
 
 The core idea behind Portals is to create a system that can translate the subtle, often unconscious, points of interest of a persons hierarchy of values and affordances, into a coherent visual narrative. Instead of relying solely on explicit text prompts, Portals will leverage novel techniques to capture and interpret a user's focus, generating a playable videogame that is deeply resonant with their internal state. Explore your own mind: is it ugly? Face yourself as you are - is it pretty? See how often you've been naive in life.
