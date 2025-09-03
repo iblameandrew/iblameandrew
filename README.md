@@ -10,7 +10,7 @@ My ruminiating over the years argues that current AI models are endowed with wav
 
 ### Portals
 
-_Right now my profile is a demo managed by a portals agent using my own unconscious as extracted after writing the story of my life - the agent then dives into recommendation engines and deep searches compatible videos using Top, Left, Right and Bottom operators._
+_Right now my profile is a demo managed by a portals agent using my own unconscious as extracted after writing the story of my life - the agent then dives into recommendation engines and deep searches resonant videos using Top, Left, Right and Bottom operators. Open sourcing my mind basically._
 
 I am currently developing **Portals**, a future open source platform for automatic videogame synthesis based on a person's elicited focal points of attention.
 
